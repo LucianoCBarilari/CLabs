@@ -1,0 +1,32 @@
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados por editores de código
+.vscode/
+.idea/
+
+# Archivos específicos de sistemas de construcción (si los usas)
+node_modules/
+dist/
+build/
+
+# Archivos de configuración local (no los compartas con el equipo)
+.env
+local.env
+
+# Archivos de registro (logs)
+*.log
+
+# Archivos generados por pruebas
+coverage/
+
+# Archivos binarios (imágenes, fuentes, etc.) - considera si quieres versionarlos
+*.jpg
+*.png
+*.gif
+*.svg
+*.woff
+*.woff2
+*.ttf
+*.eot
